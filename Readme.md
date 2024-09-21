@@ -1,7 +1,7 @@
 Text to Color API
 ============
 
-Text to Color is a simple tool for converting the name of a color into various formats. It returns the color generated from the text provided.
+Text to Color is a simple tool for converting color from natural language. It returns the color code based on the text provided.
 
 ![Build Status](https://img.shields.io/badge/build-passing-green)
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
